@@ -1,6 +1,7 @@
-# Find The Polygon - *A :video_game: Game of Dimensions*
+# Find The Polygon
+*A Game of Dimensions*
 
-A browser game that teaches about different spatial dimensions through interaction with cross-sections of objects
+Find The Polygon is a browser game that teaches about different spatial dimensions through interaction with cross-sections of objects
 
 ## Aim
 
